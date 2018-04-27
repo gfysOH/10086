@@ -1,0 +1,125 @@
+2018-04-20T01:10:54.488Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-20T01:10:54.492Z - normal: checking language setting...
+2018-04-20T01:10:54.492Z - normal: Language: zh
+2018-04-20T01:10:56.437Z - success: protocol editor-framework registered
+2018-04-20T01:10:56.438Z - success: protocol app registered
+2018-04-20T01:10:56.438Z - success: protocol theme registered
+2018-04-20T01:10:56.438Z - success: protocol packages registered
+2018-04-20T01:10:56.438Z - success: protocol unpack registerred
+2018-04-20T01:10:56.438Z - success: protocol disable-commonjs registerred
+2018-04-20T01:10:56.693Z - normal: connected!
+2018-04-20T01:10:56.696Z - normal: Check project E:\goujia\start_project
+2018-04-20T01:10:56.703Z - normal: Initializing Cocos2d
+2018-04-20T01:10:56.928Z - normal: Initializing Asset Database
+2018-04-20T01:10:57.054Z - success: protocol uuid registerred
+2018-04-20T01:10:57.054Z - success: protocol db registerred
+2018-04-20T01:10:57.054Z - success: protocol thumbnail registerred
+2018-04-20T01:10:57.055Z - normal: Loading editor/builtin packages
+2018-04-20T01:10:57.075Z - success: anysdk loaded
+2018-04-20T01:10:57.205Z - success: assets loaded
+2018-04-20T01:10:57.207Z - success: builder loaded
+2018-04-20T01:10:57.209Z - success: cocos-analytics loaded
+2018-04-20T01:10:57.213Z - success: console loaded
+2018-04-20T01:10:57.217Z - success: hierarchy loaded
+2018-04-20T01:10:57.219Z - success: inspector loaded
+2018-04-20T01:10:57.220Z - success: keystore loaded
+2018-04-20T01:10:57.223Z - success: node-library loaded
+2018-04-20T01:10:57.225Z - success: package-asset loaded
+2018-04-20T01:10:57.227Z - success: preferences loaded
+2018-04-20T01:10:57.229Z - success: project-exporter loaded
+2018-04-20T01:10:57.245Z - success: project-importer loaded
+2018-04-20T01:10:57.247Z - success: project-settings loaded
+2018-04-20T01:10:57.249Z - success: ui-kit loaded
+2018-04-20T01:10:57.251Z - success: ui-grid loaded
+2018-04-20T01:10:57.254Z - success: scene loaded
+2018-04-20T01:10:57.255Z - success: sprite-editor loaded
+2018-04-20T01:10:57.258Z - success: store loaded
+2018-04-20T01:10:57.267Z - success: timeline loaded
+2018-04-20T01:10:57.267Z - normal: Loading builtin packages
+2018-04-20T01:10:57.269Z - success: asset-db-debugger loaded
+2018-04-20T01:10:57.271Z - success: code-editor loaded
+2018-04-20T01:10:57.271Z - success: color-picker loaded
+2018-04-20T01:10:57.272Z - success: package-manager loaded
+2018-04-20T01:10:57.276Z - success: sdkbox loaded
+2018-04-20T01:10:57.279Z - success: tester loaded
+2018-04-20T01:10:57.281Z - success: ui-kit-preview-extra loaded
+2018-04-20T01:10:57.283Z - success: ui-kit-preview loaded
+2018-04-20T01:10:57.285Z - success: ui-tree loaded
+2018-04-20T01:10:58.554Z - normal: Initializing project E:\goujia\start_project
+2018-04-20T01:10:58.557Z - normal: Loading packages
+2018-04-20T01:10:58.561Z - normal: Watching packages
+2018-04-20T01:10:58.573Z - normal: Run Application
+2018-04-20T01:10:59.245Z - success: preview server running at http://localhost:7456
+2018-04-20T01:11:03.575Z - normal: 1.8.2
+2018-04-20T01:11:06.748Z - normal: Simulator: SCREEN DPI = 120, SCREEN SCALE = 1.25
+2018-04-20T01:11:06.748Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 972.00
+2018-04-20T01:11:06.748Z - normal: Simulator: FRAME SCALE = 1.25
+2018-04-20T01:11:06.914Z - normal: Simulator: Ready for GLSL
+2018-04-20T01:11:06.915Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-20T01:11:06.915Z - normal: Simulator: 
+2018-04-20T01:11:06.915Z - normal: Simulator: {
+2018-04-20T01:11:06.915Z - normal: Simulator: 	gl.version: 4.6.0 NVIDIA 387.92
+2018-04-20T01:11:06.915Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-20T01:11:06.916Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-20T01:11:06.916Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-20T01:11:06.916Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-20T01:11:06.916Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-20T01:11:06.917Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-20T01:11:06.917Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-20T01:11:06.917Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.renderer: GeForce GTX 965M/PCIe/SSE2
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-20T01:11:06.918Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-20T01:11:06.918Z - normal: Simulator: }
+2018-04-20T01:11:06.919Z - normal: Simulator: 
+2018-04-20T01:11:06.919Z - normal: Simulator: 
+2018-04-20T01:11:06.919Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-20T01:11:06.919Z - normal: Simulator: Project Config:
+2018-04-20T01:11:06.919Z - normal: Simulator:     project dir: E:\vscode\??\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-20T01:11:06.919Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-20T01:11:06.919Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-20T01:11:06.919Z - normal: Simulator:     frame size: 960 x 640
+2018-04-20T01:11:06.919Z - normal: Simulator:     frame scale: 1.25
+2018-04-20T01:11:06.919Z - normal: Simulator:     show console: NO
+2018-04-20T01:11:06.919Z - normal: Simulator:     write debug log: NO ()
+2018-04-20T01:11:06.920Z - normal: Simulator:     listen: 
+2018-04-20T01:11:06.920Z - normal: Simulator:     debugger: none
+2018-04-20T01:11:06.920Z - normal: Simulator:     add searching path:
+2018-04-20T01:11:06.920Z - normal: Simulator: 
+2018-04-20T01:11:06.920Z - normal: Simulator: 
+2018-04-20T01:11:06.920Z - normal: Simulator: 
+2018-04-20T01:11:06.920Z - normal: Simulator: ------------------------------------------------
+2018-04-20T01:11:06.920Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-20T01:11:06.920Z - normal: Simulator: ------------------------------------------------
+2018-04-20T01:11:06.921Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-20T01:11:07.224Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-20T01:11:07.235Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-20T01:11:07.235Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-20T01:11:07.303Z - normal: Simulator: Error in CREATE TABLE
+2018-04-20T01:11:07.303Z - normal: Simulator: Error initializing DB
+2018-04-20T01:11:07.303Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-20T01:11:07.470Z - normal: Simulator: iShow!
+2018-04-20T01:11:07.536Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.45799999999997ms
+2018-04-20T01:11:07.539Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18500000000000227ms
+2018-04-20T01:11:07.539Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08800000000002228ms
+2018-04-20T01:11:07.539Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-04-20T01:11:07.561Z - normal: Simulator: D/jswrapper (125): JS: Activate: 16.642999999999972ms
+2018-04-20T01:11:07.561Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-04-20T01:11:08.385Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-20T01:11:08.385Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 73, all objects: 356
+2018-04-20T01:11:08.415Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 334
+2018-04-20T01:11:08.415Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 51, all objects: 334
+2018-04-20T01:11:08.446Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 51, all objects: 334
+2018-04-20T01:11:08.447Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-20T01:11:08.476Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-20T01:11:08.477Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-20T01:11:08.478Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-20T01:11:08.478Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-20T01:11:08.479Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-20T01:11:11.637Z - info: shutdown preview server
